@@ -16,3 +16,4 @@ class Calculations:
     @classmethod
     def count_history(cls):
         return len(cls.history)
+
